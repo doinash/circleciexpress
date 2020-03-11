@@ -14,4 +14,4 @@ jobs:
 workflows:
     build-and-test:
       jobs:
-        - build-and-tes
+        - build-and-test
